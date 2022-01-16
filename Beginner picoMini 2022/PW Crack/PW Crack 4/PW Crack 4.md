@@ -29,7 +29,6 @@ def level_4_pw_check():
     #user_pw_hash = hash_pw(user_pw)
 
     for x in pos_pw_list:
-       # user_pw_hash = hash_pw(x)
         if( hash_pw(x) == correct_pw_hash ):
             print("Welcome back... your flag, user:")
             decryption = str_xor(flag_enc.decode(), x)
