@@ -18,7 +18,7 @@ def level_2_pw_check():
         return
     print("That password is incorrect")
 ```
-The main thing we're looking for when solving these CTF challenges is what checking mechanism does the script use to verify the password. Looking at this script, it checks if the variable <b>user_pw</b> to a collection of chr() functions.<br>
+The main thing we're looking for when solving these CTF challenges is what checking mechanism does the script use to verify the password. Looking at this script, it checks if the variable <b>user_pw</b> is equal to a collection of chr() functions.<br>
 From [w3schools](https://www.w3schools.com/python/ref_func_chr.asp), the chr() function is described as:
 ```
 The chr() function returns the character that represents the specified unicode.
