@@ -7,7 +7,7 @@ For starters, I run a Windows 10 machine and I use WSL Ubuntu to complete my tas
 My initial approach to all CTF challenges that give you a Python file is to run it. Running `python3 level1.py` gives the output:<br>
 `Please enter correct password for flag:`<br><br>
 After typing in random characters and recieving the output `That password is incorrect`, I then used `cat` to view the code.<br>
-After printing the code, we find that our main focus is on the level_1_pw_check() function. The code block reads:<br>
+After printing the code, we find that our main focus is on the <b>level_1_pw_check()</b> function. The code block reads:<br>
 ```python
 def level_1_pw_check():
     user_pw = input("Please enter correct password for flag: ")
