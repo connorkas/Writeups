@@ -1,5 +1,5 @@
 # picoCTF Writeups
-Collection of some of the more challenging problems I've encountered on [picoCTF](https://picoctf.org).<br>
+Collection of some of the problems I've encountered on [picoCTF](https://picoctf.org).<br>
 Always looking to improve.<br>
 Check my professional portfolio out over at [connor.x10.mx](http://connor.x10.mx)
 
