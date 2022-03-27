@@ -1,10 +1,9 @@
-# picoCTF Writeups
-Collection of some of the problems I've encountered on [picoCTF](https://picoctf.org).<br>
-Always looking to improve.<br>
+# CTF Writeups
+Collection of some of the problems I've encountered on working through various CTF challenges online.<br>
 
 It's not a large collection of challenges at the moment, but I'm hoping to build up a large amount over the coming months (and years!)<br>
 For challenges contained within folders, be sure to open the _.md_ file to read the write-up. Thanks!<br>
 
-Check my professional portfolio out over at [connorkas.com](http://connorkas.com)
+Check my professional portfolio out over at [connorkas.com](http://connorkas.com) which includes my Medium blog.
 
-![5315773](https://user-images.githubusercontent.com/26807077/149642941-e31d9e77-a5b7-4bc4-91df-2b0e670eb1bd.png)
+![me](https://i.ibb.co/vYc17q8/me-modified.png)
